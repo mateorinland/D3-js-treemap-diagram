@@ -1,4 +1,4 @@
-# D3-js-treemap-diagram
+# D3.js Treemap Diagram
 My D3.js Treemap Diagram solution for freeCodeCamp's Data Visualization course.
 
 Using HTML, CSS, JavaScript and D3.js.
